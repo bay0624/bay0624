@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @bay0624
-- 👀 I’m interested in Data Analysis, Visualization and Natural Language Processing
+- 👀 I’m interested in Databases, Data Analysis, Visualization and Natural Language Processing
 - 🌱 I’m currently learning Microsoft Azure
 - 💞️ I’m looking to collaborate on git
 - 📫 How to reach me bay.olu87@gmail.com
